@@ -1,4 +1,5 @@
-[{"name":"Опять домой - Single",
+[{"name":"Опять домой",
+"additional":"single",
 "artist":"Karna.val",
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Karna.val\",\"image\":\"https://kth-studio.github.io/Karna.val/image.jpg\",\"link\":\"https://kth-studio.github.io/Karna.val/link.json\"}]",
 "genre_en":"Pop","genre_de":"Pop","genre_ru":"Поп",
